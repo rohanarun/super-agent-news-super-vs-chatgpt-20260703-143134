@@ -1,0 +1,30 @@
+{
+  "citations": [
+    "[channelnewsasia.com](https://www.channelnewsasia.com/business/exclusive-zuckerberg-says-ai-agent-tech-developing-more-slowly-expected-6228906)",
+    "[techcrunch.com](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)",
+    "[en.softonic.com](https://en.softonic.com/articles/chatgpt-scheduled-tasks)",
+    "[androidauthority.com](https://www.androidauthority.com/chatgpt-scheduled-tasks-review-3481234/)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-in-gemini-3-5-flash/)",
+    "[memeburn.com](https://memeburn.com/2026/06/google-gives-gemini-3-5-flash-computer-use-for-ai-agents/)",
+    "[bgr.com](https://www.bgr.com/tech/ditch-siri-for-these-5-ios-compatible-alternatives/)"
+  ],
+  "design_plan": "rng=42; AIDA=pass; hero_lines=2.4; bento_density=grid-auto-flow:dense verified; labels_sweep=pass; button_contrast=AAA; media_aspect_locked=pass",
+  "generated_at": "2026-07-03T14:31:41.190857+00:00",
+  "headline": "Super vs ChatGPT \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with ChatGPT",
+    "competitor": "ChatGPT",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs ChatGPT. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "ChatGPT AI agent",
+      "ChatGPT AI assistant",
+      "ChatGPT automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-chatgpt",
+    "title": "Super vs ChatGPT"
+  },
+  "summary": "A fair comparison of Super and ChatGPT for people evaluating personal AI agents. ChatGPT is a world\u2011class general assistant evolving toward automation. Super is purpose\u2011built for agents that actually operate computers and reuse a computer-use cache, making repeated workflows faster and cheaper over time."
+}
